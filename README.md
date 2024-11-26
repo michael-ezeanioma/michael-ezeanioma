@@ -1,4 +1,4 @@
-## Hi there, I'm Michael 👋hjjj
+## Hi there, I'm Michael 👋
 
 - 🔭 I’m currently working on SQL database and data forming
 - 🌱 I’m currently learning Data Analytics
