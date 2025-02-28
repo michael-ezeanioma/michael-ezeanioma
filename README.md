@@ -7,4 +7,4 @@
 - 📫 How to reach me: Phone: 562-338-4294 | email: michaelezeanioma@gmail.com
 - ⚡ Fun fact: I enjoy helping others towards their goals
 
-<-Read about what else I'm upto on my site>
+<-- Read about what else I'm upto on my site>
